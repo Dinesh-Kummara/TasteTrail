@@ -10,6 +10,17 @@ import logging
 from pathlib import Path
 from dotenv import load_dotenv
 
+def get_config(key: str, default: str = "") -> str:
+    value = os.getenv(key)
+    if value:
+        return value
+
+    try:
+        import streamlit as st
+        return str(st.secrets.get(key, default))
+    except Exception:
+        return default
+
 # ── Locate and load .env ───────────────────────────────────────────────────────
 _BASE_DIR = Path(__file__).resolve().parent.parent          # project root
 _ENV_FILE = _BASE_DIR / ".env"
@@ -29,25 +40,26 @@ logging.basicConfig(
 )
 logger = logging.getLogger("tastetrail.config")
 
-# ── MongoDB ────────────────────────────────────────────────────────────────────
-MONGODB_URI: str = os.getenv("MONGODB_URI", "")
-MONGODB_DATABASE: str = os.getenv("MONGODB_DATABASE", "restaurant_recommendation")
+# MongoDB
+MONGODB_URI: str = get_config("MONGODB_URI")
+MONGODB_DATABASE: str = get_config(
+    "MONGODB_DATABASE", "restaurant_recommendation"
+)
 
 # Collection names
 RESTAURANTS_COLLECTION: str = "businesses"
 REVIEWS_COLLECTION: str = "reviews"
 USERS_COLLECTION: str = "users"
 
-# ── Neo4j ──────────────────────────────────────────────────────────────────────
-NEO4J_URI: str = os.getenv("NEO4J_URI", "")
-NEO4J_USERNAME: str = os.getenv("NEO4J_USERNAME", "neo4j")
-NEO4J_PASSWORD: str = os.getenv("NEO4J_PASSWORD", "")
-NEO4J_DATABASE: str = os.getenv("NEO4J_DATABASE", "neo4j")
+# Neo4j
+NEO4J_URI: str = get_config("NEO4J_URI")
+NEO4J_USERNAME: str = get_config("NEO4J_USERNAME", "neo4j")
+NEO4J_PASSWORD: str = get_config("NEO4J_PASSWORD")
+NEO4J_DATABASE: str = get_config("NEO4J_DATABASE", "neo4j")
 
-# ── Application ────────────────────────────────────────────────────────────────
-APP_ENV: str = os.getenv("APP_ENV", "development")
+# Application
+APP_ENV: str = get_config("APP_ENV", "development")
 IS_DEVELOPMENT: bool = APP_ENV == "development"
-
 # Pagination
 DEFAULT_PAGE_SIZE: int = 12          # restaurants per page
 REVIEWS_PAGE_SIZE: int = 10          # reviews per page
