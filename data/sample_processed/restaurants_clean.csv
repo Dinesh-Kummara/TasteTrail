@@ -1,0 +1,61 @@
+business_id,name,address,city,state,postal_code,latitude,longitude,stars,review_count,is_open,categories,is_synthetic
+syn_b_0001,Bella Trattoria,1779 Pine St,Philadelphia,PA,19107,39.895601,-75.192196,3.5,86,1,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0002,Sichuan Spice House,9028 Market St,Tampa,FL,33602,27.918519,-82.444958,4.5,116,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0003,Tacos & Mezcal,1774 Main St,Nashville,TN,37203,36.14353,-86.822942,5.0,187,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0004,Grill & Tap,9144 Chestnut St,Tucson,AZ,85701,32.226947,-110.917926,4.0,55,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True
+syn_b_0005,Sakura Japanese Bistro #5,3914 Main St,Indianapolis,IN,46204,39.713899,-86.190752,4.0,55,1,"Restaurants, Japanese, Sushi Bars, Asian Fusion",True
+syn_b_0006,Artisan Roast & Bakery #6,1269 Broad St,New Orleans,LA,70112,29.971521,-90.047282,4.5,346,1,"Food, Coffee & Tea, Cafes, Bakeries, Breakfast & Brunch",True
+syn_b_0007,Taj Mahal Indian Bistro #7,3852 Main St,Philadelphia,PA,19107,39.974754,-75.124058,5.0,43,1,"Restaurants, Indian, Vegetarian, Halal",True
+syn_b_0008,Starlight Lounge & Supper Club #8,2440 Chestnut St,Tampa,FL,33602,27.916115,-82.457292,4.5,249,1,"Restaurants, American (New), Fine Dining, Wine Bars, Cocktail Bars",True
+syn_b_0009,Via Veneto #9,8185 Main St,Nashville,TN,37203,36.150628,-86.815282,3.5,275,1,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0010,Dim Sum Palace #10,8769 Chestnut St,Tucson,AZ,85701,32.234169,-110.988528,4.5,254,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0011,La Fiesta #11,4908 Market St,Indianapolis,IN,46204,39.798505,-86.125868,4.0,72,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0012,Main Street Smokehouse #12,8417 Broad St,New Orleans,LA,70112,29.952022,-90.118731,4.5,167,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True
+syn_b_0013,Sakura Japanese Bistro #13,5138 Oak St,Philadelphia,PA,19107,39.964473,-75.166567,3.0,200,0,"Restaurants, Japanese, Sushi Bars, Asian Fusion",True
+syn_b_0014,Café de la Rue #14,7887 Broad St,Tampa,FL,33602,28.007958,-82.453275,3.5,80,1,"Food, Coffee & Tea, Cafes, Bakeries, Breakfast & Brunch",True
+syn_b_0015,Taj Mahal Indian Bistro #15,6218 Market St,Nashville,TN,37203,36.188254,-86.793721,4.5,347,1,"Restaurants, Indian, Vegetarian, Halal",True
+syn_b_0016,Bistro 1892 #16,1064 Oak St,Tucson,AZ,85701,32.233213,-111.033837,4.5,338,0,"Restaurants, American (New), Fine Dining, Wine Bars, Cocktail Bars",True
+syn_b_0017,Nonna's Kitchen #17,7844 Oak St,Indianapolis,IN,46204,39.734108,-86.202223,4.5,310,1,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0018,Wok & Roll #18,1712 Main St,New Orleans,LA,70112,29.941929,-90.075457,4.5,42,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0019,La Fiesta #19,4192 Main St,Philadelphia,PA,19107,39.946434,-75.174574,4.0,251,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0020,The Rustic Oak Burger Bar #20,2824 Market St,Tampa,FL,33602,28.00688,-82.406036,5.0,136,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True
+syn_b_0021,Sakura Japanese Bistro #21,4773 Market St,Nashville,TN,37203,36.220937,-86.809776,5.0,247,1,"Restaurants, Japanese, Sushi Bars, Asian Fusion",True
+syn_b_0022,Artisan Roast & Bakery #22,8983 Main St,Tucson,AZ,85701,32.185388,-111.008576,3.0,311,1,"Food, Coffee & Tea, Cafes, Bakeries, Breakfast & Brunch",True
+syn_b_0023,Taj Mahal Indian Bistro #23,1222 Broad St,Indianapolis,IN,46204,39.715226,-86.157161,5.0,110,0,"Restaurants, Indian, Vegetarian, Halal",True
+syn_b_0024,Bistro 1892 #24,9662 Broad St,New Orleans,LA,70112,29.96057,-90.126731,3.0,229,1,"Restaurants, American (New), Fine Dining, Wine Bars, Cocktail Bars",True
+syn_b_0025,Pasta Fresca #25,5280 Main St,Philadelphia,PA,19107,39.940094,-75.144597,4.0,249,0,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0026,Sichuan Spice House #26,4102 Chestnut St,Tampa,FL,33602,27.951306,-82.501305,4.0,50,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0027,La Fiesta #27,2300 Chestnut St,Nashville,TN,37203,36.103639,-86.743548,4.0,68,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0028,Main Street Smokehouse #28,8380 Market St,Tucson,AZ,85701,32.248713,-111.010268,4.5,150,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True
+syn_b_0029,Sakura Japanese Bistro #29,2747 Pine St,Indianapolis,IN,46204,39.708825,-86.125566,4.5,149,1,"Restaurants, Japanese, Sushi Bars, Asian Fusion",True
+syn_b_0030,Artisan Roast & Bakery #30,2526 Market St,New Orleans,LA,70112,29.956571,-90.031349,4.5,297,1,"Food, Coffee & Tea, Cafes, Bakeries, Breakfast & Brunch",True
+syn_b_0031,Curry Leaf #31,9273 Market St,Philadelphia,PA,19107,39.917809,-75.195256,3.0,196,1,"Restaurants, Indian, Vegetarian, Halal",True
+syn_b_0032,Bistro 1892 #32,6845 Pine St,Tampa,FL,33602,27.99637,-82.514226,4.5,185,1,"Restaurants, American (New), Fine Dining, Wine Bars, Cocktail Bars",True
+syn_b_0033,Nonna's Kitchen #33,7641 Chestnut St,Nashville,TN,37203,36.20736,-86.738569,3.5,117,1,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0034,Dim Sum Palace #34,5853 Pine St,Tucson,AZ,85701,32.201991,-110.930978,5.0,157,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0035,El Sombrero #35,726 Main St,Indianapolis,IN,46204,39.813645,-86.186754,4.5,150,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0036,The Rustic Oak Burger Bar #36,7244 Main St,New Orleans,LA,70112,29.937323,-90.062309,4.0,37,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True
+syn_b_0037,Tokyo Sushi & Ramen #37,5243 Pine St,Philadelphia,PA,19107,39.936307,-75.216803,4.5,184,1,"Restaurants, Japanese, Sushi Bars, Asian Fusion",True
+syn_b_0038,Morning Glory Espresso #38,6988 Pine St,Tampa,FL,33602,27.938888,-82.481721,3.5,113,1,"Food, Coffee & Tea, Cafes, Bakeries, Breakfast & Brunch",True
+syn_b_0039,Spice Route Express #39,7143 Broad St,Nashville,TN,37203,36.168452,-86.841551,4.0,122,1,"Restaurants, Indian, Vegetarian, Halal",True
+syn_b_0040,Heritage Table #40,1489 Chestnut St,Tucson,AZ,85701,32.257848,-110.91952,4.5,101,1,"Restaurants, American (New), Fine Dining, Wine Bars, Cocktail Bars",True
+syn_b_0041,Pasta Fresca #41,4111 Market St,Indianapolis,IN,46204,39.735357,-86.194204,3.0,38,1,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0042,Sichuan Spice House #42,2517 Pine St,New Orleans,LA,70112,29.977302,-90.085423,4.0,139,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0043,Taqueria Los Amigos #43,922 Broad St,Philadelphia,PA,19107,39.913706,-75.110244,4.5,252,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0044,Liberty Diner #44,7091 Broad St,Tampa,FL,33602,28.004605,-82.410229,4.5,273,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True
+syn_b_0045,Zen Garden Sushi #45,4599 Market St,Nashville,TN,37203,36.194598,-86.779044,4.5,137,0,"Restaurants, Japanese, Sushi Bars, Asian Fusion",True
+syn_b_0046,Café de la Rue #46,3605 Main St,Tucson,AZ,85701,32.179205,-111.006949,4.5,93,1,"Food, Coffee & Tea, Cafes, Bakeries, Breakfast & Brunch",True
+syn_b_0047,Spice Route Express #47,9532 Market St,Indianapolis,IN,46204,39.816981,-86.14801,4.5,25,1,"Restaurants, Indian, Vegetarian, Halal",True
+syn_b_0048,Bistro 1892 #48,6471 Chestnut St,New Orleans,LA,70112,29.949688,-90.098748,4.0,29,1,"Restaurants, American (New), Fine Dining, Wine Bars, Cocktail Bars",True
+syn_b_0049,Via Veneto #49,544 Main St,Philadelphia,PA,19107,39.956695,-75.116369,4.5,303,1,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0050,Wok & Roll #50,4658 Market St,Tampa,FL,33602,27.915999,-82.477979,5.0,209,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0051,Taqueria Los Amigos #51,608 Oak St,Nashville,TN,37203,36.180717,-86.747852,4.5,35,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0052,The Rustic Oak Burger Bar #52,6143 Oak St,Tucson,AZ,85701,32.230276,-111.008544,4.5,146,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True
+syn_b_0053,Zen Garden Sushi #53,6249 Market St,Indianapolis,IN,46204,39.721372,-86.215019,4.0,309,1,"Restaurants, Japanese, Sushi Bars, Asian Fusion",True
+syn_b_0054,Café de la Rue #54,2083 Broad St,New Orleans,LA,70112,29.974763,-90.09531,4.5,322,1,"Food, Coffee & Tea, Cafes, Bakeries, Breakfast & Brunch",True
+syn_b_0055,Curry Leaf #55,7202 Chestnut St,Philadelphia,PA,19107,39.894118,-75.174793,4.0,69,1,"Restaurants, Indian, Vegetarian, Halal",True
+syn_b_0056,Starlight Lounge & Supper Club #56,7716 Market St,Tampa,FL,33602,27.964509,-82.406846,5.0,262,1,"Restaurants, American (New), Fine Dining, Wine Bars, Cocktail Bars",True
+syn_b_0057,Pasta Fresca #57,6309 Chestnut St,Nashville,TN,37203,36.208496,-86.812336,4.0,306,0,"Restaurants, Italian, Pizza, Bars, Wine Bars",True
+syn_b_0058,Wok & Roll #58,266 Broad St,Tucson,AZ,85701,32.196159,-110.963161,4.0,299,1,"Restaurants, Chinese, Asian Fusion, Noodles",True
+syn_b_0059,Tacos & Mezcal #59,1624 Chestnut St,Indianapolis,IN,46204,39.785908,-86.159201,5.0,23,1,"Restaurants, Mexican, Bars, Cocktail Bars",True
+syn_b_0060,Liberty Diner #60,7534 Chestnut St,New Orleans,LA,70112,29.94216,-90.041988,4.0,195,1,"Restaurants, American (Traditional), Burgers, Barbeque, Pubs",True

@@ -1,0 +1,271 @@
+business_id,category
+syn_b_0001,Restaurants
+syn_b_0001,Italian
+syn_b_0001,Pizza
+syn_b_0001,Bars
+syn_b_0001,Wine Bars
+syn_b_0002,Restaurants
+syn_b_0002,Chinese
+syn_b_0002,Asian Fusion
+syn_b_0002,Noodles
+syn_b_0003,Restaurants
+syn_b_0003,Mexican
+syn_b_0003,Bars
+syn_b_0003,Cocktail Bars
+syn_b_0004,Restaurants
+syn_b_0004,American (Traditional)
+syn_b_0004,Burgers
+syn_b_0004,Barbeque
+syn_b_0004,Pubs
+syn_b_0005,Restaurants
+syn_b_0005,Japanese
+syn_b_0005,Sushi Bars
+syn_b_0005,Asian Fusion
+syn_b_0006,Food
+syn_b_0006,Coffee & Tea
+syn_b_0006,Cafes
+syn_b_0006,Bakeries
+syn_b_0006,Breakfast & Brunch
+syn_b_0007,Restaurants
+syn_b_0007,Indian
+syn_b_0007,Vegetarian
+syn_b_0007,Halal
+syn_b_0008,Restaurants
+syn_b_0008,American (New)
+syn_b_0008,Fine Dining
+syn_b_0008,Wine Bars
+syn_b_0008,Cocktail Bars
+syn_b_0009,Restaurants
+syn_b_0009,Italian
+syn_b_0009,Pizza
+syn_b_0009,Bars
+syn_b_0009,Wine Bars
+syn_b_0010,Restaurants
+syn_b_0010,Chinese
+syn_b_0010,Asian Fusion
+syn_b_0010,Noodles
+syn_b_0011,Restaurants
+syn_b_0011,Mexican
+syn_b_0011,Bars
+syn_b_0011,Cocktail Bars
+syn_b_0012,Restaurants
+syn_b_0012,American (Traditional)
+syn_b_0012,Burgers
+syn_b_0012,Barbeque
+syn_b_0012,Pubs
+syn_b_0013,Restaurants
+syn_b_0013,Japanese
+syn_b_0013,Sushi Bars
+syn_b_0013,Asian Fusion
+syn_b_0014,Food
+syn_b_0014,Coffee & Tea
+syn_b_0014,Cafes
+syn_b_0014,Bakeries
+syn_b_0014,Breakfast & Brunch
+syn_b_0015,Restaurants
+syn_b_0015,Indian
+syn_b_0015,Vegetarian
+syn_b_0015,Halal
+syn_b_0016,Restaurants
+syn_b_0016,American (New)
+syn_b_0016,Fine Dining
+syn_b_0016,Wine Bars
+syn_b_0016,Cocktail Bars
+syn_b_0017,Restaurants
+syn_b_0017,Italian
+syn_b_0017,Pizza
+syn_b_0017,Bars
+syn_b_0017,Wine Bars
+syn_b_0018,Restaurants
+syn_b_0018,Chinese
+syn_b_0018,Asian Fusion
+syn_b_0018,Noodles
+syn_b_0019,Restaurants
+syn_b_0019,Mexican
+syn_b_0019,Bars
+syn_b_0019,Cocktail Bars
+syn_b_0020,Restaurants
+syn_b_0020,American (Traditional)
+syn_b_0020,Burgers
+syn_b_0020,Barbeque
+syn_b_0020,Pubs
+syn_b_0021,Restaurants
+syn_b_0021,Japanese
+syn_b_0021,Sushi Bars
+syn_b_0021,Asian Fusion
+syn_b_0022,Food
+syn_b_0022,Coffee & Tea
+syn_b_0022,Cafes
+syn_b_0022,Bakeries
+syn_b_0022,Breakfast & Brunch
+syn_b_0023,Restaurants
+syn_b_0023,Indian
+syn_b_0023,Vegetarian
+syn_b_0023,Halal
+syn_b_0024,Restaurants
+syn_b_0024,American (New)
+syn_b_0024,Fine Dining
+syn_b_0024,Wine Bars
+syn_b_0024,Cocktail Bars
+syn_b_0025,Restaurants
+syn_b_0025,Italian
+syn_b_0025,Pizza
+syn_b_0025,Bars
+syn_b_0025,Wine Bars
+syn_b_0026,Restaurants
+syn_b_0026,Chinese
+syn_b_0026,Asian Fusion
+syn_b_0026,Noodles
+syn_b_0027,Restaurants
+syn_b_0027,Mexican
+syn_b_0027,Bars
+syn_b_0027,Cocktail Bars
+syn_b_0028,Restaurants
+syn_b_0028,American (Traditional)
+syn_b_0028,Burgers
+syn_b_0028,Barbeque
+syn_b_0028,Pubs
+syn_b_0029,Restaurants
+syn_b_0029,Japanese
+syn_b_0029,Sushi Bars
+syn_b_0029,Asian Fusion
+syn_b_0030,Food
+syn_b_0030,Coffee & Tea
+syn_b_0030,Cafes
+syn_b_0030,Bakeries
+syn_b_0030,Breakfast & Brunch
+syn_b_0031,Restaurants
+syn_b_0031,Indian
+syn_b_0031,Vegetarian
+syn_b_0031,Halal
+syn_b_0032,Restaurants
+syn_b_0032,American (New)
+syn_b_0032,Fine Dining
+syn_b_0032,Wine Bars
+syn_b_0032,Cocktail Bars
+syn_b_0033,Restaurants
+syn_b_0033,Italian
+syn_b_0033,Pizza
+syn_b_0033,Bars
+syn_b_0033,Wine Bars
+syn_b_0034,Restaurants
+syn_b_0034,Chinese
+syn_b_0034,Asian Fusion
+syn_b_0034,Noodles
+syn_b_0035,Restaurants
+syn_b_0035,Mexican
+syn_b_0035,Bars
+syn_b_0035,Cocktail Bars
+syn_b_0036,Restaurants
+syn_b_0036,American (Traditional)
+syn_b_0036,Burgers
+syn_b_0036,Barbeque
+syn_b_0036,Pubs
+syn_b_0037,Restaurants
+syn_b_0037,Japanese
+syn_b_0037,Sushi Bars
+syn_b_0037,Asian Fusion
+syn_b_0038,Food
+syn_b_0038,Coffee & Tea
+syn_b_0038,Cafes
+syn_b_0038,Bakeries
+syn_b_0038,Breakfast & Brunch
+syn_b_0039,Restaurants
+syn_b_0039,Indian
+syn_b_0039,Vegetarian
+syn_b_0039,Halal
+syn_b_0040,Restaurants
+syn_b_0040,American (New)
+syn_b_0040,Fine Dining
+syn_b_0040,Wine Bars
+syn_b_0040,Cocktail Bars
+syn_b_0041,Restaurants
+syn_b_0041,Italian
+syn_b_0041,Pizza
+syn_b_0041,Bars
+syn_b_0041,Wine Bars
+syn_b_0042,Restaurants
+syn_b_0042,Chinese
+syn_b_0042,Asian Fusion
+syn_b_0042,Noodles
+syn_b_0043,Restaurants
+syn_b_0043,Mexican
+syn_b_0043,Bars
+syn_b_0043,Cocktail Bars
+syn_b_0044,Restaurants
+syn_b_0044,American (Traditional)
+syn_b_0044,Burgers
+syn_b_0044,Barbeque
+syn_b_0044,Pubs
+syn_b_0045,Restaurants
+syn_b_0045,Japanese
+syn_b_0045,Sushi Bars
+syn_b_0045,Asian Fusion
+syn_b_0046,Food
+syn_b_0046,Coffee & Tea
+syn_b_0046,Cafes
+syn_b_0046,Bakeries
+syn_b_0046,Breakfast & Brunch
+syn_b_0047,Restaurants
+syn_b_0047,Indian
+syn_b_0047,Vegetarian
+syn_b_0047,Halal
+syn_b_0048,Restaurants
+syn_b_0048,American (New)
+syn_b_0048,Fine Dining
+syn_b_0048,Wine Bars
+syn_b_0048,Cocktail Bars
+syn_b_0049,Restaurants
+syn_b_0049,Italian
+syn_b_0049,Pizza
+syn_b_0049,Bars
+syn_b_0049,Wine Bars
+syn_b_0050,Restaurants
+syn_b_0050,Chinese
+syn_b_0050,Asian Fusion
+syn_b_0050,Noodles
+syn_b_0051,Restaurants
+syn_b_0051,Mexican
+syn_b_0051,Bars
+syn_b_0051,Cocktail Bars
+syn_b_0052,Restaurants
+syn_b_0052,American (Traditional)
+syn_b_0052,Burgers
+syn_b_0052,Barbeque
+syn_b_0052,Pubs
+syn_b_0053,Restaurants
+syn_b_0053,Japanese
+syn_b_0053,Sushi Bars
+syn_b_0053,Asian Fusion
+syn_b_0054,Food
+syn_b_0054,Coffee & Tea
+syn_b_0054,Cafes
+syn_b_0054,Bakeries
+syn_b_0054,Breakfast & Brunch
+syn_b_0055,Restaurants
+syn_b_0055,Indian
+syn_b_0055,Vegetarian
+syn_b_0055,Halal
+syn_b_0056,Restaurants
+syn_b_0056,American (New)
+syn_b_0056,Fine Dining
+syn_b_0056,Wine Bars
+syn_b_0056,Cocktail Bars
+syn_b_0057,Restaurants
+syn_b_0057,Italian
+syn_b_0057,Pizza
+syn_b_0057,Bars
+syn_b_0057,Wine Bars
+syn_b_0058,Restaurants
+syn_b_0058,Chinese
+syn_b_0058,Asian Fusion
+syn_b_0058,Noodles
+syn_b_0059,Restaurants
+syn_b_0059,Mexican
+syn_b_0059,Bars
+syn_b_0059,Cocktail Bars
+syn_b_0060,Restaurants
+syn_b_0060,American (Traditional)
+syn_b_0060,Burgers
+syn_b_0060,Barbeque
+syn_b_0060,Pubs

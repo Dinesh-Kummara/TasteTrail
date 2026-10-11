@@ -1,0 +1,38 @@
+{
+  "pipeline_start": "2026-10-11T07:15:17.638697+00:00",
+  "pipeline_end": "2026-10-11T07:15:17.663791+00:00",
+  "duration_seconds": 0.03,
+  "data_source": "synthetic",
+  "businesses": {
+    "raw_lines": 70,
+    "malformed_lines": 0,
+    "non_restaurants_filtered": 10,
+    "city_filtered": 0,
+    "stars_filtered": 0,
+    "duplicate_ids": 0,
+    "retained": 60
+  },
+  "reviews": {
+    "raw_lines": 416,
+    "malformed_lines": 0,
+    "unmatched_business_skipped": 0,
+    "duplicate_ids": 0,
+    "retained": 416
+  },
+  "users": {
+    "raw_lines": 80,
+    "malformed_lines": 0,
+    "unmatched_user_skipped": 1,
+    "duplicate_ids": 0,
+    "retained": 79
+  },
+  "output_files": {
+    "restaurants_jsonl": "data\\sample_processed\\restaurants_clean.jsonl",
+    "restaurants_csv": "data\\sample_processed\\restaurants_clean.csv",
+    "restaurant_categories_csv": "data\\sample_processed\\restaurant_categories.csv",
+    "reviews_jsonl": "data\\sample_processed\\reviews_clean.jsonl",
+    "reviews_csv": "data\\sample_processed\\reviews_clean.csv",
+    "users_jsonl": "data\\sample_processed\\users_clean.jsonl",
+    "users_csv": "data\\sample_processed\\users_clean.csv"
+  }
+}

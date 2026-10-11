@@ -1,0 +1,17 @@
+{
+  "is_synthetic": true,
+  "generated_at": "2026-10-11T07:14:47.218171+00:00",
+  "output_directory": "C:\\Users\\dines\\OneDrive\\Desktop\\Restaurant Recommendation DE\\restaurant-recommendation-system\\data\\sample_raw",
+  "counts": {
+    "restaurants": 60,
+    "non_restaurants": 10,
+    "total_businesses": 70,
+    "users": 80,
+    "reviews": 416
+  },
+  "files": {
+    "business": "C:\\Users\\dines\\OneDrive\\Desktop\\Restaurant Recommendation DE\\restaurant-recommendation-system\\data\\sample_raw\\business.json",
+    "user": "C:\\Users\\dines\\OneDrive\\Desktop\\Restaurant Recommendation DE\\restaurant-recommendation-system\\data\\sample_raw\\user.json",
+    "review": "C:\\Users\\dines\\OneDrive\\Desktop\\Restaurant Recommendation DE\\restaurant-recommendation-system\\data\\sample_raw\\review.json"
+  }
+}
