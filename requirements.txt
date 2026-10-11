@@ -1,8 +1,3 @@
-# ─────────────────────────────────────────────
-# TasteTrail – Restaurant Recommendation System
-# requirements.txt  (Python 3.12)
-# ─────────────────────────────────────────────
-
 # Web framework
 streamlit==1.35.0
 
@@ -20,9 +15,5 @@ plotly==5.22.0
 # Configuration / environment
 python-dotenv==1.0.1
 
-# HTTP utilities (used by streamlit internally)
+# HTTP utilities
 requests==2.32.3
-
-# Development helpers
-pytest==8.2.2
-pytest-mock==3.14.0
